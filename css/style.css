@@ -299,7 +299,9 @@ nav {
     text-transform: uppercase;
     text-decoration: none;
     font-weight: bold;
-    color: #444444; }
+    color: #444444 !important; }
+  nav a:hover {
+    color: #28676a !important; }
 
 article {
   font-family: Georgia, serif;
@@ -310,6 +312,10 @@ article {
     font-style: normal;
     font-size: 0.4em;
     line-height: 1em; }
+    article header h1 a, article header h2 a {
+      color: black !important; }
+      article header h1 a:hover, article header h2 a:hover {
+        color: #28676a !important; }
   article p {
     font-size: 1.8em;
     line-height: 1.9em;
