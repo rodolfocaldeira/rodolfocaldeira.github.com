@@ -1,0 +1,32 @@
+// ==========================================================================
+//   Variables
+// ==========================================================================
+
+$colorBlack: #444;
+$colorWhite: #fff;
+$colorGreen: #368b8f;
+
+$fontBase: Arial, sans-serif;
+$fontGeorgia: Georgia, serif;
+$fontHelveticaNeue: 'Helvetica Neue', Helvetica, $fontBase;
+$fontHomesteadInline: 'HomesteadInlineInline',  $fontBase;
+$fontHomesteadRegular: 'HomesteadRegularRegular', $fontBase;
+
+
+@mixin mFontHelveticaNeue {
+    font-family: $fontHelveticaNeue;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@mixin mFontHomesteadInline {
+    font-family: $fontHomesteadInline;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@mixin mFontHomesteadRegular {
+    font-family: $fontHomesteadRegular;
+    font-weight: normal;
+    font-style: normal;
+}
