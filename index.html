@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Home
 ---
 
 
 
 {% for post in site.posts  %}
     <article {% if post.type %} class="{{ post.type }}" {% endif %}>
+        {% if post.skipTitle %}
+        {% else %}
         <header>
             <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
         </header>
+        {% endif %}
         {{ post.content }}
         <footer>
             <time datetime="{{ post.date | date_to_xmlschema }}">
@@ -17,10 +19,6 @@ title: Home
             </time>
         </footer>
     </article>
-
-
-
-
 {% endfor %}
 
 
