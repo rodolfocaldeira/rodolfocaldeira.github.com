@@ -6,12 +6,18 @@ layout: default
 
 {% for post in site.posts  %}
     <article {% if post.type %} class="{{ post.type }}" {% endif %}>
-        {% if post.skipTitle %}
+        {% if post.videoUrl %}
+        <iframe class="is-youtube"
+            src="{{ post.videoUrl }}?&amp;fmt=18&amp;rel=0&amp;showinfo=0&amp;autohide=1&amp;hd=1&amp;wmode=transparent"
+            frameborder="0"
+            allowfullscreen="true">
+        </iframe>
         {% else %}
         <header>
             <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
         </header>
         {% endif %}
+
         {{ post.content }}
         <footer>
             <time datetime="{{ post.date | date_to_xmlschema }}">
