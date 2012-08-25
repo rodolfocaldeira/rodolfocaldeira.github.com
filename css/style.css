@@ -287,17 +287,13 @@ Layout
   max-width: 800px;
   margin: 0 auto;
   background-color: white;
-  padding: 0 0 2em 0; }
+  padding: 0 0 2em 0;
+  background: url(../img/bg/bg-header-grunge.jpg) no-repeat center top white; }
 
 /* ==========================================================================
 Modules
 ========================================================================== */
 .hero {
-  background: url(../img/bg/bg-header.png) no-repeat center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   margin-bottom: 2em; }
 
 .logo {
