@@ -1,0 +1,19 @@
+---
+layout: post
+title: LxJs 2012
+---
+
+My first conference since I started working 4 years ago. 
+I must say I'm very happy to have chosen [LxJs 2012](http://2012.lxjs.org/), a community driven event organized by some really [talented Portuguese developers](http://2012.lxjs.org/#/contacts). Well done to everyone involved.
+
+Who would have thought that in 2012, JavaScript was going to be the next big thing - no the world is not up side down, these are exciting times we're living.
+
+Here are some of my favorite talks:
+
+- Seb Lee-Delisle - [Fireworks](http://www.youtube.com/watch?v=oR9hhcP2ArU&feature=plcp)
+- James Halliday - [Harnessing The Awesome Power Of Streams](http://www.youtube.com/watch?v=lQAV3bPOYHo&feature=relmfu)
+- Felix Geisendörfer - [Programming flying robots with Node.js](http://www.youtube.com/watch?v=jl5v3bsMH_E&feature=relmfu)
+- Mikeal Rogers - [Untitled (Open source and community)](http://www.youtube.com/watch?v=GaqxIMLLOu8&feature=relmfu)
+- Brian LeRoux - [Mobile JavaScript](http://www.youtube.com/watch?v=lObZbhhTq5E&feature=relmfu)
+
+Looking forward for the next edition.
