@@ -6,16 +6,23 @@ layout: default
 
 <article {% if page.type %} class="{{ page.type }}" {% endif %}>
     {% if page.videoUrl %}
-    <iframe class="is-youtube"
-            src="{{ page.videoUrl }}?&amp;fmt=18&amp;rel=0&amp;showinfo=0&amp;autohide=1&amp;hd=1&amp;wmode=transparent"
-            frameborder="0"
-            allowfullscreen="true">
-    </iframe>
+        {% if page.title %}
+            <header>
+                <h2><a href="{{page.url}}">{{ page.title }}</a></h2>
+            </header>
+        {% endif %}
+
+        <iframe class="is-youtube"
+                src="{{ page.videoUrl }}?&amp;fmt=18&amp;rel=0&amp;showinfo=0&amp;autohide=1&amp;hd=1&amp;wmode=transparent"
+                frameborder="0"
+                allowfullscreen="true">
+        </iframe>
     {% else %}
-    <header>
-        <h2><a href="{{page.url}}">{{ page.title }}</a></h2>
-    </header>
+        <header>
+            <h2><a href="{{page.url}}">{{ page.title }}</a></h2>
+        </header>
     {% endif %}
+
     {{ content }}
     <footer>
         <time datetime="{{ post.date | date_to_xmlschema }}">
