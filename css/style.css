@@ -496,7 +496,6 @@ body {
   @media only screen and (max-width: 480px) {
     body {
       background: none;
-      background-color: blue !important;
       padding: 0;
       width: 100%; } }
 
