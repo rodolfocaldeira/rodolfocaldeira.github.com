@@ -659,6 +659,9 @@ article {
       font-size: 4em;
       line-height: 1em;
       text-align: left; }
+      @media only screen and (max-width: 480px) {
+        article.l-expanded h1, article.l-expanded h2 {
+          font-size: 2em; } }
     article.l-expanded header, article.l-expanded p, article.l-expanded footer {
       margin-left: 10%;
       margin-right: 10%; }
