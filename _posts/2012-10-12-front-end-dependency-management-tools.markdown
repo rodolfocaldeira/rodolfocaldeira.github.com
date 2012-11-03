@@ -14,3 +14,7 @@ Pick one below and start using it. I'm going to do the same and will let you kno
 Let computers do what they are good doing so that you can focus on what is important.
 
 The ecosystem of tiny javascript decoupled modules can now flourish.
+
+**Update: 2012-10-23**
+
+They just keep on coming - [Jam](http://jamjs.org/) is another package manager for JavaScript. A full in depth tutorial can be found in the [JavaScript Playground - Package Management with Jam](http://javascriptplayground.com/blog/2012/07/package-management-with-jam-js).
