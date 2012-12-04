@@ -23,3 +23,8 @@ They just keep on coming - [Jam](http://jamjs.org/) is another package manager f
 **Update: 2012-11-03**
 
 [Component](https://github.com/component/component) a package manager for building a better web.
+
+**Update: 2012-11-28**
+
+If you are looking for something even simpler, Jack Franklin has come up with [Nodefetch](https://github.com/jackfranklin/nodefetch) that can easily download you the latest version of your favorite library.
+
