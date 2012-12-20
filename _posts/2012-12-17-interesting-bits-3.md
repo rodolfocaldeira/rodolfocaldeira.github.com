@@ -2,7 +2,7 @@
 layout: post
 title: Interesting Bits 3
 ---
- 
+
 Just a few more days to go before Christmas, but we still have time for some interesting bits.
 
 
@@ -14,6 +14,9 @@ GitHub was the first one, now font icons are everywhere.
 - [Fontello](http://fontello.com/), icon fonts generator 
 - [IcoMoon](http://icomoon.io/app/), also a generator
 
+*Update December, 20th 2012*
+
+- [The Big List of Flat Icons & Icon Fonts](http://css-tricks.com/flat-icons-icon-fonts/) by Chris Coyer
 
 ## Tools
 
