@@ -24,11 +24,11 @@ layout: default
     {% endif %}
 
     {{ content }}
-    <footer>
-        <time datetime="{{ post.date | date_to_xmlschema }}">
-            {{ page.date | date_to_string }}
-        </time>
-    </footer>
+<footer>
+  <time datetime="{{ post.date }}">
+    {{ page.date | date_to_string }}
+  </time>
+</footer>
 </article>
 
 
