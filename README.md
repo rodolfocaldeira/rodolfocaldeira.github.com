@@ -1,5 +1,13 @@
-rodolfocaldeira.github.com
-==========================
+# rodolfocaldeira.github.com
 
-This is my personal website. All source code, design, and content is copyright Rodolfo Caldeira and may not be used without permission.
-Feel free to draw inspiration from it though.
+My personal blog, where I share all things web related. 
+You can see it here [blog.rodolfocaldeira.com](blog.rodolfocaldeira.com).
+
+Built with [Jekyll](http://jekyllrb.com/) and powered by
+[Github pages](http://pages.github.com/).
+
+## License
+
+Feel free to use the design of the website, everything is licensed under
+the [MIT License](http://en.wikipedia.org/wiki/MIT_License). However
+all the content is copyrighted.
