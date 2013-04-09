@@ -617,7 +617,7 @@ article {
           color: #28676a !important; }
   article p {
     font-size: 1.8em;
-    line-height: 1.9em;
+    line-height: 1.5em;
     color: #444444; }
     @media only screen and (max-width: 480px) {
       article p {
