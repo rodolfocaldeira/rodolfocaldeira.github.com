@@ -1,6 +1,7 @@
 ---
 title: Front end dependency management tools 
 layout: post
+excerpt: Here are a couple of options for you next project.
 ---
 
 I'm very happy to start seeing some work being done in the front-end dependency management area.

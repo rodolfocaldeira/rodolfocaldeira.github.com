@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Killer Contract by Andy Clarke
+excerpt: Never sign another contract that you don’t fully understand.
 ---
  
 

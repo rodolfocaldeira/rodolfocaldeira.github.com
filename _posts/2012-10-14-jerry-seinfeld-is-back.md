@@ -1,6 +1,7 @@
 ---
 title: Jerry Seinfeld is back
 layout: post
+excerpt: One of my favourite comedians has a web series.
 ---
 	
 

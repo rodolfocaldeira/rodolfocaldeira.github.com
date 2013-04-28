@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Interesting bits
+excerpt: Some interesting bits from the interwebs.
 ---
 
 While surfing the interwebs I stumbled across these interesting bits.
