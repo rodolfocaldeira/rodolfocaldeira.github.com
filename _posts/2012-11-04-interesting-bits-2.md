@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Interesting Bits 2
+excerpt: The internet is full of interesting things, what can you do?
 ---
  
 Where are a couple of really interesting bits I have collected in the last couple of weeks.

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Netflix Documentaries
+title: Netflix picks
+excerpt: Some documentaries that you should check out on Netflix.
 ---
 
 If you have some time to kill, don't forget to watch the following documentaries:

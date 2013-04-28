@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Interesting Bits 3
+excerpt: Icon fonts, Web development tools and some really cool Node.js modules.
 ---
 
 Just a few more days to go before Christmas, but we still have time for some interesting bits.

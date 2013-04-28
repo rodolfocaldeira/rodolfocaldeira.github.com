@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Responsive Design Kit
+excerpt: Everything that you need for your next responsive project.
 ---
 
 If you're planning in developing a responsive project the following articles will get you up to speed with everything you need to know.

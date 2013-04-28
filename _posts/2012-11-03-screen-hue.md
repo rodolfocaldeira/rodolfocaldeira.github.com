@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Screen Hue
+excerpt: Playing around with socket.io.
 ---
 
 This week after watching the promo for [Hue](http://www.meethue.com/en-US/getstarted) a new product from Philips I decided to hack something very quickly with Node.js and Socket.io.
