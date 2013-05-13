@@ -21,6 +21,14 @@ While the W3c Group is working hard to figure out responsive images the followin
 - [Picture Fill](https://github.com/scottjehl/picturefill),
 - [RWD Image Compression](http://filamentgroup.com/lab/rwd_img_compression/)
 
------------
+------
 
 *Remember the design should always dictate the breakpoints and not the other way around.*
+
+------
+
+**Update 2013-05-14**
+
+I must say I completely agree with Joni Korpi on this post [Leaving old IE behind](http://www.jonikorpi.com/leaving-old-IE-behind/). 
+
+The Mobile first approach allows you to make a clean break with legacy browsers, by simply not wrapping the narrower design inside a media query.
