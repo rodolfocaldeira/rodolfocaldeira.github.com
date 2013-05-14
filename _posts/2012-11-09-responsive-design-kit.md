@@ -29,8 +29,14 @@ While the W3c Group is working hard to figure out responsive images the followin
 
 **Update 2013-05-14**
 
-I must say I completely agree with Joni Korpi on this post [Leaving old IE behind](http://www.jonikorpi.com/leaving-old-IE-behind/). 
+I must say I completely agree with Joni Korpi on his post [Leaving old IE behind](http://www.jonikorpi.com/leaving-old-IE-behind/) and also with Chris Ferdinandi in [Mobile First and Internet Explorer](http://gomakethings.com/mobile-first-and-internet-explorer/).
 
-The Mobile first approach allows you to make a clean break with legacy browsers, by simply not wrapping the narrower design inside a media query.
+The Mobile first approach allows you to make a clean break with legacy browsers. By simply not wrapping the narrower/mobile layout  inside a media query you allow older browsers, that don't understand media queries at all to display the mobile design - which is usually a one column layout that focus on the page content. 
 
-[This is Responsive](http://bradfrost.github.io/this-is-responsive/index.html), a website by Brad Frost has a lot of great examples of responsive patterns as well as other responsive design resources.
+For modern browsers, that do support media queries you can then go crazy, and use all the modern techniques for structuring the page content and elements. 
+
+**It's a win, win kind of deal.**
+
+------
+
+[This is Responsive](http://bradfrost.github.io/this-is-responsive/index.html), a website by Brad Frost that has a lot of great examples of responsive patterns as well as other responsive design resources.
