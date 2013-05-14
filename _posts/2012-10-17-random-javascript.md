@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScript Random Number Generator 
+excerpt: 
 ---
 
 Here's an easy to use random number generator function in javascript.

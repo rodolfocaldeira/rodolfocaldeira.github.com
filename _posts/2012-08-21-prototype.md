@@ -2,6 +2,7 @@
 layout: post
 videoUrl: http://www.youtube.com/embed/j1p0_R8ZLB0
 title: Prototype
+excerpt: 
 ---
 
 

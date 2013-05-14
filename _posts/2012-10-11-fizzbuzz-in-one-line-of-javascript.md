@@ -1,6 +1,7 @@
 ---
 title: FizzBuzz in one line of JavaScript
 layout: post
+excerpt: 
 ---
 	
 {% highlight javascript %}
