@@ -466,7 +466,7 @@ kbd,
 pre,
 samp {
   font-family: monospace, serif;
-  _font-family: "courier new", monospace;
+  _font-family: 'courier new', monospace;
   font-size: 1em; }
 
 /**
@@ -585,7 +585,7 @@ form {
  * Define consistent border, margin, and padding.
  */
 fieldset {
-  border: 1px solid silver;
+  border: 1px solid #c0c0c0;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em; }
 
@@ -774,7 +774,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #ccc;
   margin: 1em 0;
   padding: 0; }
 
@@ -882,8 +882,8 @@ blockquote {
       color: #333333; }
 
 nav {
-  border-bottom: 2px solid #eeeeee;
-  border-top: 2px solid #eeeeee;
+  border-bottom: 2px solid #eee;
+  border-top: 2px solid #eee;
   margin: 0 auto 10%;
   text-align: center;
   font-family: "HomesteadRegularRegular", Arial, sans-serif;
@@ -913,7 +913,8 @@ nav {
     float: none;
     clear: both;
     border: 2px solid #eeeeee;
-    margin-bottom: 1.8em; }
+    margin-bottom: 1.8em;
+    min-height: 215px; }
     .articles-list article:hover {
       -webkit-box-shadow: 4px 1px 1px 1px #46b393;
       box-shadow: 5px 6px 0px 0px #46b393; }
@@ -1051,14 +1052,17 @@ footer {
     font-size: 1.8em; }
 
   .post h1 {
-    font-size: 2.2em;
-    color: red !important; } }
+    font-size: 2.2em; }
+
+  footer p {
+    font-size: 0.9em; } }
 @media only screen and (min-width: 43em) {
   .articles-list article {
     float: left;
     position: relative;
     width: 47.5%;
-    clear: none; }
+    clear: none;
+    min-height: 315px; }
     .articles-list article.l-expanded {
       width: 99.4%; }
     .articles-list article:nth-child(2n + 2) {
@@ -1078,7 +1082,7 @@ footer {
 @media print {
   * {
     background: transparent !important;
-    color: black !important;
+    color: #000 !important;
     /* Black prints faster: h5bp.com/s */
     box-shadow: none !important;
     text-shadow: none !important; }
@@ -1103,7 +1107,7 @@ footer {
 
   pre,
   blockquote {
-    border: 1px solid #999999;
+    border: 1px solid #999;
     page-break-inside: avoid; }
 
   thead {
