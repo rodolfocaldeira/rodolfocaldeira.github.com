@@ -16,12 +16,28 @@ So, without any further ado here's the extensive list.
 
 ## Official 
 
-- [AngularJs](http://angularjs.org/), website
-- [AngularJs Docs](http://docs.angularjs.org/)
-- [AngularJs on Google+](https://plus.google.com/+AngularJs/posts)
-- [AngularJs Cookbook](http://docs.angularjs.org/cookbook/)
-- [AngularJs Tutorial](http://docs.angularjs.org/tutorial/)
-- [Projects using AngularJs](https://github.com/angular/angular.js/wiki/Projects-using-AngularJs)
+- [AngularJs](http://angularjs.org/) official website
+- [AngularJs Docs](http://docs.angularjs.org/) api reference
+- [AngularJs Tutorial](http://docs.angularjs.org/tutorial/) you should definitely start with this one. Here you'll learn angular js basics and also get a feel of how things work
+- [AngularJs Developer Guide](http://docs.angularjs.org/guide) is a detailed guide that explains the vision behind the framework
+- [AngularJs Cookbook](http://docs.angularjs.org/cookbook/) some code examples on how to use the framework
+- [Projects using AngularJs](https://github.com/angular/angular.js/wiki/Projects-using-AngularJs), some really cool projects using the framework
+
+
+
+
+
+## Communities
+
+AngularJs community is very strong so besides learning by doing you can always count on them. Remember to always pay it forward.
+
+- [Google+](https://plus.google.com/+AngularJs/posts)
+- [Youtube](http://www.youtube.com/user/angularjs)
+- [Google Groups](https://groups.google.com/forum/?fromgroups#!forum/angular)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/angularjs)
+- [Linkedin](http://www.linkedin.com/groups?groupDashboard=&gid=4896676)
+
+
 
 
 
@@ -30,7 +46,9 @@ So, without any further ado here's the extensive list.
 - O'Reilly, [AngularJs](http://shop.oreilly.com/product/0636920028055.do). Example [code](https://github.com/shyamseshadri/angularjs-book).
 - Manning, [AngularJs in Action](http://www.manning.com/bford/)
 - Packt, [AngularJs Web Application Development](http://www.packtpub.com/angularjs-web-application-development/book)
-- Leanpub, [Recipes with AngularJs](https://leanpub.com/recipes-with-angular-js). Example [code](https://github.com/fdietz/recipes-with-angular-js-examples)
+- Leanpub, [Recipes with AngularJs](https://leanpub.com/recipes-with-angular-js). Example [code](https://github.com/fdietz/recipes-with-angular-js-examples).
+
+
 
 
 
@@ -43,25 +61,34 @@ So, without any further ado here's the extensive list.
 
 
 
+
+
 ## Keynotes
 
+- [Re-imagining the browser with AngularJs](http://www.youtube.com/watch?v=ersEb9vTX3Y) by Miško Hevery
 - [AngularJs MTV Meetup: (2012/11/13)](http://www.youtube.com/watch?v=VxuN6WO3tIA). Presentation slides available [here](http://slides.wesalvaro.com/20121113/) and [here](https://docs.google.com/presentation/d/1FRkzxuBrP9gTwkdXT22ke7J-zMwxUSRbfrbHTO_qRRM/edit#slide=id.p).
-- [Re-imagining the browser with AngularJs](http://www.infoq.com/presentations/AngularJs-Demo)
-- [AngularJs Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx). Example [code](http://tinyurl.com/AngularJsDemos).
+- [AngularJs Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx). A quick overview of how all the different bits of the framework work together to build an app. Example [code](http://tinyurl.com/AngularJsDemos).
+
+
 
 
 
 ## Web Dev Tools
 
 - [Batarang](https://github.com/angular/angularjs-batarang), Chrome developer tool for AngularJs
+- [Webstorm plugin](http://plugins.jetbrains.com/plugin?pr=idea&pluginId=6971), auto completion and other nifty things for your favourite ide
+
+
 
 
 
 ## Best Practices
 
 - [Huge AngularJs Apps](http://briantford.com/blog/huuuuuge-angular-apps.html), by Brian Ford
-- [Angular seed](https://github.com/angular/angular-seed)
-- [Angular Express Seed](https://github.com/btford/angular-express-seed)
+- [Angular seed](https://github.com/angular/angular-seed) project structure
+- [Angular Express Seed](https://github.com/btford/angular-express-seed) project structure if you're thinking of using ExpressJs
+
+
 
 
 
@@ -71,13 +98,15 @@ So, without any further ado here's the extensive list.
 - [Angular Modules](http://ngmodules.org/)
 - [Angular Ui](http://angular-ui.github.io/), useful directives and filters
 - [AngularStrap](http://mgcrea.github.io/angular-strap/), bootstrap directive for AngularJs
-- [Leaflet directive](http://tombatossals.github.io/angular-leaflet-directive/)
 - [D3.js Reusable Bar Chart with Angularjs](http://bl.ocks.org/biovisualize/5372077)
 - [Bindonce, High performance binding](https://github.com/Pasvaz/bindonce)
 - [AngularJs directives and the computer science of JavaScript](http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
+- [Leaflet directive](http://tombatossals.github.io/angular-leaflet-directive/)
 - [AngularJs Google Maps](http://nlaplante.github.io/angular-google-maps/)
 - [Angular Gestures](https://github.com/wzr1337/angular-gestures)
 - [Angular OAuth](https://github.com/enginous/angular-oauth)
+
+
 
 
 
@@ -91,6 +120,8 @@ So, without any further ado here's the extensive list.
 
 
 
+
+
 ### Miscelaneous
 
 - [AngularJs Cheat-sheets](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
@@ -100,6 +131,8 @@ So, without any further ado here's the extensive list.
 - [AngularJs Intro](http://derkoe.github.io/presentations/angularjs-intro/), introductory presentation about angular js
 - [Difference between Service, Factory and Provider in AngularJs](https://gist.github.com/Mithrandir0x/3639232)
 - [Angular Service or Factory](http://iffycan.blogspot.pt/2013/05/angular-service-or-factory.html)
+
+
 
 
 
