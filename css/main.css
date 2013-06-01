@@ -1065,7 +1065,7 @@ footer {
     min-height: 315px; }
     .articles-list article.l-expanded {
       width: 99.4%; }
-    .articles-list article:nth-child(2n + 2) {
+    .articles-list article.l-col2 {
       float: right; }
   .articles-list footer {
     position: absolute;

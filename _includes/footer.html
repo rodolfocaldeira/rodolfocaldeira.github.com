@@ -8,16 +8,53 @@
 </div>
 
 <script>
-  window.onload = function() {
-    document.body.className="";
-  }
+    window.onload = function() {
+        document.body.className="";
+    };
 
-  var _gaq=[['_setAccount','UA-19865012-2'],['_trackPageview']];
-  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-    s.parentNode.insertBefore(g,s)}(document,'script'));
+    (function() {
+        var articlesNodeList = document.querySelectorAll('article');
+        var articlesArray = Array.prototype.slice.call(articlesNodeList);
+        var len = articlesArray.length;
+        var notExpandedCount = 0;
+        var articles = [];
+        var i;
+
+        // filter and remove all video posts
+        for(i = 0; i < len; i++) {
+
+            if(articlesArray[i].className === 'l-expanded') {
+                if(notExpandedCount % 2 !== 0) {
+                    articlesArray[i].className = '';
+                }
+                else {
+                    notExpandedCount = 0;
+                }
+            }
+
+            if(articlesArray[i].className !== 'l-expanded') {
+                notExpandedCount++;
+                articles.push(articlesArray[i]);
+            }
+
+        }
+
+        len = articles.length;
+        for(i = 0; i < len; i++) {
+
+            if(i % 2 !== 0 && i !== len - 1) {
+                articles[i].className = 'l-col2';
+            }
+        }
+
+
+    })();
+
+    var _gaq=[['_setAccount','UA-19865012-2'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+        g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g,s)}(document,'script'));
 </script>
-
 
 </body>
 </html>
