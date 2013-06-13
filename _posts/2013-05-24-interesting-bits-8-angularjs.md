@@ -142,7 +142,6 @@ AngularJs community is very strong so besides learning by doing you can always c
 - [AngularJs Calc](http://www.thomporter.com/apps/angularjs_calc)
 - [A shopping cart application built with AngularJs](http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJs)
 - [Stock Watch list with AngularJs](http://www.zacharytamas.com/2013/04/stock-watchlist-with-angularjs/)
-- [AngularJs CRUD application demo](https://github.com/angular-app/angular-app)
 - [AngularJs Leader Board](https://github.com/simpulton/angularjs-leader-board)
 - [My first AngularJs application](http://www.raymondcamden.com/index.cfm/2011/11/29/My-first-AngularJs-application)
 - [Code Organization in Large AngularJs and JavaScript Applications](http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript) Models folder check this out.
@@ -158,6 +157,8 @@ AngularJs community is very strong so besides learning by doing you can always c
 - [Build Apps with AngulaJs - Google Drive Uploader](http://developer.chrome.com/trunk/apps/angular_framework.html)
 - [AngularJs Modules for Great Justice](https://github.com/lavinjj/angularjs-modules-for-great-justice)
 - [Can one controller call another in AngularJs?](http://stackoverflow.com/questions/9293423/can-one-controller-call-another-in-angularjs)
+- [Team Dashboard](http://fdietz.github.io/team_dashboard/) a very good looking dashboard to visualize team metrics
+- [SCAmp](https://github.com/beshrkayali/SCAmp) is a SoundCloud playlist manager
 
 
 I'll be keeping this list up to date, if you have a good link to something [AngularJs](http://angularjs.org/) related and you want me to add it here, just give me a shout on [Twitter](twitter.com/rodolfocaldeira).
