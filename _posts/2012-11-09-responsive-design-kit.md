@@ -40,3 +40,10 @@ For modern browsers, that do support media queries you can then go crazy, and us
 ------
 
 [This is Responsive](http://bradfrost.github.io/this-is-responsive/index.html), a website by Brad Frost that has a lot of great examples of responsive patterns as well as other responsive design resources.
+
+
+**Update 2013-07-14**
+
+Nothing ground breaking here but the following article gives a couple of really good suggestions on how to use SASS (or Less) to implement responsive design, the easy way.
+
+- [Improve your responsive design workflow](http://www.netmagazine.com/tutorials/improve-your-responsive-design-workflow-sass)
