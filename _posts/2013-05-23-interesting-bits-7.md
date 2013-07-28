@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting Bits 7
-excerpt: This one is all over the place.
+excerpt: Everything you need to know about Bootstrap, Web style guides, Testing and a couple more things.
 ---
 
 A collection of interesting bits that I've been collecting for the last couple of months.
