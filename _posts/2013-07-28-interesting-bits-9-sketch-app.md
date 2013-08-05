@@ -17,6 +17,7 @@ I definitely recommend you trying out the app (check the trial available in the 
 
 To help you out and give you some ideas of what you can do here are some Sketch resources:
 
+- [SketchMine](http://sketchmine.co/) .sketch files from the design community
 - [Sketch App Sources](http://www.sketchappsources.com/)
 - [Sketch Resource List](http://mattreich.net/journal/sketch-resource-list) by Matt Reich
 - [Pinterest: Sketch Sources](http://pinterest.com/sketchsources/resources/)
