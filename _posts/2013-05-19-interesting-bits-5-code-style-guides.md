@@ -17,5 +17,6 @@ If you're thinking about implementing a code style guide for your team/company, 
 - [A CSS Style Guide](https://github.com/byrichardpowell/CSS-Style)
 - [Photoshop Etiquette](https://github.com/carbonfi/Photoshop-Etiquette#external-file-organisation)
 - [Maintain Consistency With a Website Style Guide](http://webdesign.tutsplus.com/tutorials/visuals/maintain-consistency-with-a-website-style-guide/)
+- [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines) <small>(added 2013-07-28)</small>
 
 Consistency is key.
