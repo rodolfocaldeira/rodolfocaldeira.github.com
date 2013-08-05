@@ -984,6 +984,22 @@ footer {
   .post .is-youtube {
     height: 330px; }
 
+
+.msg {
+  border: 1px solid #c1c1c1;
+  background-color: #dfdfdf;
+  padding: .5em 1.5em;
+}
+
+.msg p {
+  margin: 0.5em 0;
+}
+
+.msg--danger {
+  background-color: #fcf2f2;
+  border-color: #dFb5b4;
+ }
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
