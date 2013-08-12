@@ -206,8 +206,10 @@ AngularJs community is very strong so besides learning by doing you can always c
 - [AngularJS Directives That Override Standard HTML Tags](http://flippinawesome.org/2013/07/22/angularjs-directives-that-override-standard-html-tags/)
 - [AngularJS Tips'n'tricks Part 2](http://blog.revolunet.com/blog/2013/07/23/angularjs-tips-n-tricks-2/)
 - [Modular Angular App Design](http://clintberry.com/2013/modular-angularjs-application-design/)
-
-
+- [Animating with AngularJs](http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
+- [Some AngularJS pitfalls](http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/)
+- [MEAN (Mongo, Express, Angular, Node)](https://github.com/linnovate/mean) a Simple, Scalable and Easy starting point for JS centric web apps
+- [Learn AngularJS this Weekend](http://joelhooks.com/blog/2013/08/03/learn-angularjs-in-a-weekend/)
 
 
 
