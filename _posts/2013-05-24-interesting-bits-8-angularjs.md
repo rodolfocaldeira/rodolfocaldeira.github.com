@@ -6,7 +6,7 @@ excerpt: An extensive list of AngularJs resources.
 
 <div class="msg msg--danger">
 	<p><strong>2013/08/05</strong></p>
-	<p>This article as it stands right now, is <strong>terrible</strong>, but I promise to comeback to it and figure out a way to make it useful for everyone.</p>
+	<p>This article as it stands right now, is <strong>crap</strong>, but I promise to comeback to it and figure out a way to make it more useful for everyone.</p>
 </div>
 
 You may have noticed that Google's [AngularJs](http://angularjs.org/) superheroic framework is getting very popular these days.
@@ -210,6 +210,7 @@ AngularJs community is very strong so besides learning by doing you can always c
 - [Some AngularJS pitfalls](http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/)
 - [MEAN (Mongo, Express, Angular, Node)](https://github.com/linnovate/mean) a Simple, Scalable and Easy starting point for JS centric web apps
 - [Learn AngularJS this Weekend](http://joelhooks.com/blog/2013/08/03/learn-angularjs-in-a-weekend/)
+- [Preventing duplicated requests in Angular Js](http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
 
 
 
