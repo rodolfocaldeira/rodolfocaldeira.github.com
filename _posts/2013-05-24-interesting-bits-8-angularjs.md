@@ -211,6 +211,16 @@ AngularJs community is very strong so besides learning by doing you can always c
 - [MEAN (Mongo, Express, Angular, Node)](https://github.com/linnovate/mean) a Simple, Scalable and Easy starting point for JS centric web apps
 - [Learn AngularJS this Weekend](http://joelhooks.com/blog/2013/08/03/learn-angularjs-in-a-weekend/)
 - [Preventing duplicated requests in Angular Js](http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
+- [Building an AngularJS Dialog Service](http://weblogs.asp.net/dwahlin/archive/2013/08/19/building-an-angularjs-dialog-service.aspx)
+- [Remastered Animation in AngularJS 1.2](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
+- [How to build a large Angular.js application](https://gocardless.com/blog/building-a-large-angular-application/)
+- [Configuring Dependency Injection in AngularJS](http://joelhooks.com/blog/2013/08/18/configuring-dependency-injection-in-angularjs/)
+- [AngularJS: How can I run a directive after the dom has finished rendering?](http://stackoverflow.com/questions/12240639/angularjs-how-can-i-run-a-directive-after-the-dom-has-finished-rendering)
+- [AngularJS And Something For The Designers In My Life](http://onehungrymind.com/for-the-designers/)
+- [Combining AngularJS with existing Components](http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
+- [jQuery Plugin under Angular.js Directive](http://www.phloxblog.in/jquery-plugin-angular-js-directive-clean-html-approach/)
+- [An approach to use jQuery Plugins with AngularJS](http://amitgharat.wordpress.com/2013/02/03/an-approach-to-use-jquery-plugins-with-angularjs/)
+
 
 
 
