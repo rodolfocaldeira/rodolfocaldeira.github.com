@@ -220,7 +220,9 @@ AngularJs community is very strong so besides learning by doing you can always c
 - [Combining AngularJS with existing Components](http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
 - [jQuery Plugin under Angular.js Directive](http://www.phloxblog.in/jquery-plugin-angular-js-directive-clean-html-approach/)
 - [An approach to use jQuery Plugins with AngularJS](http://amitgharat.wordpress.com/2013/02/03/an-approach-to-use-jquery-plugins-with-angularjs/)
-
+- [Angular App](http://viralpatel.net/blogs/angularjs-controller-tutorial/), CRUD application demo
+- [AngularJS Controller Tutorial With Example](http://viralpatel.net/blogs/angularjs-controller-tutorial/)
+- [AngularJS Best Practices: I’ve Been Doing It Wrong! Part 1 of 3](http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/)
 
 
 
