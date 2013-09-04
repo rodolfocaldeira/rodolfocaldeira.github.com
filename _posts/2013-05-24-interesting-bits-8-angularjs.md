@@ -60,7 +60,7 @@ AngularJs community is very strong so besides learning by doing you can always c
 
 ## Courses
 
-- [Egghead.io](http://www.egghead.io/), extensive list of AngularJs screencasts
+- [Egghead.io](http://www.egghead.io/), extensive list of AngularJs screencasts. Example [code](https://github.com/msfrisbie/egghead-angularjs)
 - Tutsplus - [Easier JavaScript Apps with AngularJs](https://tutsplus.com/course/easier-js-apps-with-angular/)
 - Plural Sight - [AngularJs Fundamentals](http://www.pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals)
 - Tekpub - [Show Me AngularJs](http://tekpub.com/productions/angular)
@@ -192,7 +192,6 @@ AngularJs community is very strong so besides learning by doing you can always c
 - [ng-animate First Look with AngularJS Wizard](http://onehungrymind.com/ng-animate-first-look-with-angularjs-wizard/)
 - [Writing an AngularJS App with Socket.IO](http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/)
 - [appengine-angular-gotodos](https://github.com/GoogleCloudPlatform/appengine-angular-gotodos), gotodos is an App Engine backend written in Go for the TODO list demo from Angular.js getting started documentation.
-- [A Better Way to Learn AngularJS](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
 - [adaptive-scroll](https://github.com/angular-adaptive/adaptive-scroll), This module allows you to scroll an AngularJS app using gyroscope.
 - [End to End with Angular JS](http://www.youtube.com/watch?client=mv-google&gl=IE&hl=en-GB&v=hqAyiqUs93c&nomobile=1)
 - [AngularJS - Behave like Gmail using Routes with Resolve](http://www.youtube.com/watch?hl=en-GB&client=mv-google&gl=IE&v=P6KITGRQujQ&list=UUKW92i7iQFuNILqQOUOCrFw&index=4&feature=plcp&nomobile=1)
@@ -223,6 +222,10 @@ AngularJs community is very strong so besides learning by doing you can always c
 - [Angular App](http://viralpatel.net/blogs/angularjs-controller-tutorial/), CRUD application demo
 - [AngularJS Controller Tutorial With Example](http://viralpatel.net/blogs/angularjs-controller-tutorial/)
 - [AngularJS Best Practices: I’ve Been Doing It Wrong! Part 1 of 3](http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/)
+- [A Better Way to Learn AngularJS](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
+- [AngularJS Tutorial: Learn to Build Modern Web Apps](http://www.thinkster.io/pick/521e8672e2a3b28f98000314/angularjs-tutorial-learn-to-build-modern-web-apps)
+- [How old are you](https://github.com/sectore/hoay) is a web application to calculate your ages in years, month and days built with AngularJS and Phonegap
+- [Top 10 CSS Table Designs](http://coding.smashingmagazine.com/2008/08/13/top-10-css-table-designs/)
 
 
 
