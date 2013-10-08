@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to embed codepens in Jekyll
-excerpt: How to create cross browser css arrows like a boss.
+excerpt: The easiest way to do it.
 ---
 
 If you try to embed a codepen inside a Jekyll powered website you get the following error.
