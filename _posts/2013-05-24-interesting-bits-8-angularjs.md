@@ -226,6 +226,24 @@ AngularJs community is very strong so besides learning by doing you can always c
 - [AngularJS Tutorial: Learn to Build Modern Web Apps](http://www.thinkster.io/pick/521e8672e2a3b28f98000314/angularjs-tutorial-learn-to-build-modern-web-apps)
 - [How old are you](https://github.com/sectore/hoay) is a web application to calculate your ages in years, month and days built with AngularJS and Phonegap
 - [Top 10 CSS Table Designs](http://coding.smashingmagazine.com/2008/08/13/top-10-css-table-designs/)
+- [ngStart](https://github.com/marcorinck/ngStart), project skeleton for new Angular Js apps
+- [Prototype Angular Uis Without A Backend](http://www.opensourceconnections.com/2013/09/16/prototype-angular-uis-without-a-backend/)
+- [Three Data Binding with Angular and Firebase](https://www.firebase.com/blog/2013-10-04-firebase-angular-data-binding.html)
+- [How to create a Directive in AngularJS](http://www.angularails.com/articles/creating_simple_directive_in_angular)
+- [The Future of AngularJs](https://docs.google.com/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/preview?sle=true#slide=id.p) by Brian Ford
+- [ng-trans.css](http://minipai.github.io/ng-trans.css/) plug-and-play transition for AngularJS
+- [Enhance Log using AngularJs decorators](http://solutionoptimist.com/2013/10/07/enhance-log-using-angularjs-decorators/)
+- [Prerender](http://prerender.io/) allows your apps to be crawled perfectly by search engines.
+- [This is Now Clone](https://github.com/thegregthomp/now-clone) built with the MEAN stack
+- [Order by multiple fields](http://jsfiddle.net/JSWorld/Hp4W7/32/)
+- [Angular.js example application](http://www.codeproject.com/Articles/637430/Angular-js-example-application), a very detailed example from the Code Project
+- [The Issues: An AngularJS Demo Application](https://github.com/seanhess/the-issues-angularjs-demo)
+- [How To Create A Configurable Angularjs Directive](http://gaslight.co/blog/how-to-create-a-configurable-angularjs-directive)
+- [Angular Timer](http://siddii.github.io/angular-timer/index.html), a timer directive
+- [Refactoring to AngularJS Directive](http://suhairhassan.com/2013/10/21/refactoring-to-angularjs-directive.html)
+- [Custom Validations in AngularJS](http://kirkbushell.me/when-to-use-directives-controllers-or-services-in-angular/)
+- [End to End with Angular JS](http://www.youtube.com/watch?v=hqAyiqUs93c)
+- [AngularFire by FireBase](http://angularfire.com/)
 
 
 
