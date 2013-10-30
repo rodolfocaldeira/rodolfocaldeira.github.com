@@ -244,6 +244,11 @@ AngularJs community is very strong so besides learning by doing you can always c
 - [Custom Validations in AngularJS](http://kirkbushell.me/when-to-use-directives-controllers-or-services-in-angular/)
 - [End to End with Angular JS](http://www.youtube.com/watch?v=hqAyiqUs93c)
 - [AngularFire by FireBase](http://angularfire.com/)
+- [Nested Controllers](http://viralpatel.net/blogs/angularjs-controller-tutorial/)
+- [Communication between controllers](http://onehungrymind.com/angularjs-communicating-between-controllers/)
+
+
+
 
 
 
