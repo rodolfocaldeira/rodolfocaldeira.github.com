@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Interesting Bits 9 - Sketch App
+title: "Interesting Bits 9 - Sketch App"
 excerpt: A tiny yet powerful vector tool.
+published: true
 ---
 
 In the last couple of weeks I've been using a lot the [Sketch](http://www.bohemiancoding.com/sketch/) app from Bohemian Coding and I must say I really like it.
@@ -25,3 +26,7 @@ To help you out and give you some ideas of what you can do here are some Sketch 
 - [Seven days with Sketch 2](http://theindustry.cc/2012/05/08/7-days-with-sketch-2/)
 
 Have fun.
+
+**Update 2013-12-03**
+
+An interesting article that shows how to use the tool to its full extent, [Supercharge your Workflow in Sketch](https://medium.com/design-ux/ebc9e5274845).
