@@ -246,7 +246,10 @@ AngularJs community is very strong so besides learning by doing you can always c
 - [AngularFire by FireBase](http://angularfire.com/)
 - [Nested Controllers](http://viralpatel.net/blogs/angularjs-controller-tutorial/)
 - [Communication between controllers](http://onehungrymind.com/angularjs-communicating-between-controllers/)
-
+- [Services (Part 6 of AngularJS from beginner to expert in 7 steps series)](http://www.ng-newsletter.com/posts/beginner2expert-services.html)
+- [AngularJS factory - Return constructor function?](http://stackoverflow.com/questions/16052664/angularjs-factory-return-constructor-function)
+- [AngularJS Data Model](http://www.webdeveasy.com/angularjs-data-model/)
+- [The short guide to service definitions](http://www.ng-newsletter.com/advent2013/#!/day/1)
 
 
 
