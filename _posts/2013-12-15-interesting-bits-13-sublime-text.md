@@ -26,3 +26,8 @@ Some strategies no how to keep your editor configuration files in sync.
 
 
 Don't forget to keep checking this list for more goodies on Sublime Text.
+
+**Update 2014-02-08**
+
+- [Essential Sublime Text 2 Plugins and Extensions](http://code.tutsplus.com/tutorials/essential-sublime-text-2-plugins-and-extensions--net-24173)
+- [SpaceGray](http://kkga.github.io/spacegray/) a minimal theme for Sublime

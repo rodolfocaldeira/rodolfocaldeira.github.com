@@ -20,3 +20,11 @@ To help you out in that laborious task here are some resources that I think will
 **Update 2013-11-10**
 
 - [Typ.io](http://www.typ.io/latest) a catalogue of web typography
+
+**Update 2014-02-08**
+
+- [TypeWolf](http://www.typewolf.com/) Finger on the Pulse of Web Typography
+- [Maratz SubHeads](http://webdesign.maratz.com/lab/subheads/) different typographic scales
+- [Best New Web Fonts of 2013](http://typecast.com/blog/best-new-web-fonts-of-2013)
+- [Type Scale](http://type-scale.com/) a visual type scale
+- [Chris Coyer shows you how to add stroke to web text](http://css-tricks.com/adding-stroke-to-web-text/)

@@ -19,5 +19,5 @@ A minha maninha foi mais uma vez mãe desta de uma linda menina, Maria e o Natal
 
 Vou o dar o máximo para tornar este ano inesquecível e tão bom quanto 2013.
 
-Tudo de bom para vocês, 
+Tudo de bom para vocês.
 Rodolfo
