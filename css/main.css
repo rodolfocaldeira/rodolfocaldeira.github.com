@@ -970,7 +970,9 @@ footer {
     margin-top: 1.8em; }
   .post p {
     font-size: 1.5em;
-    color: #444444; }
+    color: #444444; 
+    text-align: justify;
+  }
   .post li {
     color: #444444; }
   .post footer {
