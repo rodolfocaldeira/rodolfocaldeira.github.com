@@ -30,3 +30,7 @@ Have fun.
 **Update 2013-12-03**
 
 An interesting article that shows how to use the tool to its full extent, [Supercharge your Workflow in Sketch](https://medium.com/design-ux/ebc9e5274845).
+
+**Update 2014-02-08**
+
+- [Sketch Symbols plugin](https://github.com/tisho/sketch-plugins/tree/master/Symbols)
