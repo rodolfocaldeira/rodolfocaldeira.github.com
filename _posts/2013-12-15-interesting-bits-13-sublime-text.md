@@ -31,3 +31,7 @@ Don't forget to keep checking this list for more goodies on Sublime Text.
 
 - [Essential Sublime Text 2 Plugins and Extensions](http://code.tutsplus.com/tutorials/essential-sublime-text-2-plugins-and-extensions--net-24173)
 - [SpaceGray](http://kkga.github.io/spacegray/) a minimal theme for Sublime
+
+**Update 2014-02-22**
+
+- [Centurion](https://github.com/allanhortle/Centurion), another minimal theme
