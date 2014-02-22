@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interesting Bits 16 - Style Guides"
-excerpt: Animate all the things.
+excerpt: Keeping it visually consistent.
 published: true
 ---  
 
