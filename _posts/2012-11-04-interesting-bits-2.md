@@ -15,3 +15,7 @@ Where are a couple of really interesting bits I have collected in the last coupl
 - [Require.js 2.0 Delayed Module Evaluation and Google Maps](http://blog.millermedeiros.com/requirejs-2-0-delayed-module-evaluation-and-google-maps/) a really interesting article about version 2.0 of Require.js
 
 I'm telling you all this Internet thing is going to be big.
+
+**Update: 2014-02-22**
+
+- [Simple Git workflow is simple](http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/)
