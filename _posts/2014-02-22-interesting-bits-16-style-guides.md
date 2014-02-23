@@ -11,7 +11,7 @@ The implementation of a style guide provides uniformity in style and formatting 
 
 [Source Wikipedia](http://en.wikipedia.org/wiki/Style_guide)
 
-Here are some examples of style guides being used in the wild.
+Here are some examples of style guides being used out there in the wild.
 
 - [Clearleft Styleguide](http://clearleft.com/styleguide/)
 - [Mailchimp Patterns](https://ux.mailchimp.com/patterns/)
@@ -23,5 +23,6 @@ Here are some examples of style guides being used in the wild.
 - [Barnard Levit Style Guide](http://www.barnardlevit.co.uk/style-guide)
 - [Starbucks - Mockups](http://www.starbucks.com/static/reference/mockups/)
 - [Starbucks - Style Guide](http://www.starbucks.com/static/reference/styleguide/)
+- [Design Systems: Building for the Future](http://css-tricks.com/design-systems-building-future/)
 
 Keep it simple and **consistent**.
