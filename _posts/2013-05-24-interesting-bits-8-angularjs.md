@@ -22,6 +22,9 @@ I promise I'll try not to make this list as long as the previous one.
 
 Godspeed.
 
+- - -
+<br>
+
 **Update: 2014/02/21**
 
 Today I had a chance to look at this extensive list and decided to moved it into Delicious, because that is why we have bookmark managers.
@@ -30,7 +33,8 @@ Over the next couple of days I'll be moving the rest, and will be creating the a
 
 Without further ado let me introduce you the [AngularJs bundle](https://delicious.com/rodolfocaldeira/tag_bundle/AngularJs).
 
-<br><br>
+- - -
+<br>
 
 <div class="msg msg--danger">
   <p><strong>2013/08/05</strong></p>
@@ -109,17 +113,6 @@ AngularJs community is very strong so besides learning by doing you can always c
 
 - [Batarang](https://github.com/angular/angularjs-batarang), Chrome developer tool for AngularJs
 - [Webstorm plugin](http://plugins.jetbrains.com/plugin?pr=idea&pluginId=6971), auto completion and other nifty things for your favourite ide
-
-
-
-
-
-## Favourite 
-
-
-
-
-
 
 
 <br>

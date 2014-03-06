@@ -28,3 +28,7 @@ To help you out in that laborious task here are some resources that I think will
 - [Best New Web Fonts of 2013](http://typecast.com/blog/best-new-web-fonts-of-2013)
 - [Type Scale](http://type-scale.com/) a visual type scale
 - [Chris Coyer shows you how to add stroke to web text](http://css-tricks.com/adding-stroke-to-web-text/)
+
+**Update 2014-03-10**
+
+- [Font Prep](http://fontprep.com/) a mac os tool that allows you to transform your true type fonts (ttf and otf) into web fonts (woff, eot, svg). Similar to [Squirrel's font generator](http://www.fontsquirrel.com/tools/webfont-generator) but for the desktop.
