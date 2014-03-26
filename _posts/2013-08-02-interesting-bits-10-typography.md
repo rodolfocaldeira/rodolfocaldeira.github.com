@@ -28,3 +28,7 @@ To help you out in that laborious task here are some resources that I think will
 - [Best New Web Fonts of 2013](http://typecast.com/blog/best-new-web-fonts-of-2013)
 - [Type Scale](http://type-scale.com/) a visual type scale
 - [Chris Coyer shows you how to add stroke to web text](http://css-tricks.com/adding-stroke-to-web-text/)
+
+**Update 2014-03-26**
+
+- [A Pocket Guide to Master Every Day’s Typographic Adventures](http://www.typogui.de/)
