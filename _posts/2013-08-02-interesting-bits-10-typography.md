@@ -32,3 +32,7 @@ To help you out in that laborious task here are some resources that I think will
 **Update 2014-03-26**
 
 - [A Pocket Guide to Master Every Day’s Typographic Adventures](http://www.typogui.de/)
+
+**Update 2014-04-04**
+
+- [Whats the Closest Google Font?](http://joelcrawfordsmith.com/new/)
