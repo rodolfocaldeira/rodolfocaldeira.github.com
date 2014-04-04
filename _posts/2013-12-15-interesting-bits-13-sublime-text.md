@@ -2,6 +2,7 @@
 layout: post
 title: "Interesting Bits 13 - Sublime Text"
 excerpt: The best resources for you favourite text editor
+published: true
 ---
 
 Sublime Text has revolutionized the landscape of text editors over the last couple of years.
@@ -35,3 +36,7 @@ Don't forget to keep checking this list for more goodies on Sublime Text.
 **Update 2014-02-22**
 
 - [Centurion](https://github.com/allanhortle/Centurion), another minimal theme
+
+**Update 2014-04-04**
+
+- [Scotch - Complete Guide to Sublime Text 3](http://scotch.io/series/the-complete-visual-guide-to-sublime-text-3)
