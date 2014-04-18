@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Interesting Bits 12 - Interview questions
+title: "Interesting Bits 12 - Interview questions"
 excerpt: A useful collection of some interview questions.
+published: true
 ---
 
 If you're serious about getting a new job it's important that you do your homework and practice as much as you can.
@@ -28,7 +29,8 @@ A couple of some really good front-end specific interview questions. These are n
 
 Here's an extensive list of a lot of real good code challenges. Practising these will warm up your brain for the big day.
 
-- [Common code problems solved using JavaScript](https://github.com/blakeembrey/code-problems?utm_source=javascriptweekly&utm_medium=email#code-problems)
+- [The Insider's Guide to JavaScript Interviewing](http://www.toptal.com/javascript#hiring-guide) **Update 2014-04-18**
+- [Common code problems solved using JavaScript](https://github.com/blakeembrey/code-problems)
 - [Interview Programming Questions in House Exam](http://stackoverflow.com/questions/6361/interview-programming-questions-in-house-exam)
 - [Tech Interviews](http://www.techinterview.org/)
 - [Project Euler](http://projecteuler.net/index.php?section=problems)
@@ -37,6 +39,9 @@ Here's an extensive list of a lot of real good code challenges. Practising these
 - [Ruby Programming Challenge for Newbies](http://ruby-challenge.rubylearning.org/)
 - [Code Katas](http://codekata.pragprog.com/2007/01/code_kata_backg.html#more)
 - [SQL Exercises](http://sql-ex.ru/exercises.php)
+
+
+
 
 
 ## General questions
