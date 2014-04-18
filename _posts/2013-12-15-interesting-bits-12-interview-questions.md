@@ -5,6 +5,13 @@ excerpt: A useful collection of some interview questions.
 published: true
 ---
 
+
+ **Update 2014-04-18**
+
+- [The Insider's Guide to JavaScript Interviewing](http://www.toptal.com/javascript#hiring-guide)
+
+- - -
+
 If you're serious about getting a new job it's important that you do your homework and practice as much as you can.
 
 **Note:** Studying all these resources might not get you that dream job, but it surely won't hurt.
@@ -29,7 +36,6 @@ A couple of some really good front-end specific interview questions. These are n
 
 Here's an extensive list of a lot of real good code challenges. Practising these will warm up your brain for the big day.
 
-- [The Insider's Guide to JavaScript Interviewing](http://www.toptal.com/javascript#hiring-guide) **Update 2014-04-18**
 - [Common code problems solved using JavaScript](https://github.com/blakeembrey/code-problems)
 - [Interview Programming Questions in House Exam](http://stackoverflow.com/questions/6361/interview-programming-questions-in-house-exam)
 - [Tech Interviews](http://www.techinterview.org/)
