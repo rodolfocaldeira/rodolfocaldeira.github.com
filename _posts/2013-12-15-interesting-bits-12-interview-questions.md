@@ -5,13 +5,6 @@ excerpt: A useful collection of some interview questions.
 published: true
 ---
 
-
- **Update 2014-04-18**
-
-- [The Insider's Guide to JavaScript Interviewing](http://www.toptal.com/javascript#hiring-guide)
-
-- - -
-
 If you're serious about getting a new job it's important that you do your homework and practice as much as you can.
 
 **Note:** Studying all these resources might not get you that dream job, but it surely won't hurt.
@@ -61,3 +54,8 @@ Last but not least some general questions.
 - - -
 
 Good luck and don't forget practice makes perfect.
+
+
+ **Update 2014-04-18**
+
+- [The Insider's Guide to JavaScript Interviewing](http://www.toptal.com/javascript#hiring-guide)
