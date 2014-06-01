@@ -3,7 +3,7 @@ layout: post
 title: "Interesting Bits 16 - Style Guides"
 excerpt: Keeping it visually consistent.
 published: true
----  
+---
 
 "A style guide or style manual is a set of standards for the writing and design of documents, either for general use or for a specific publication, organization or field. 
 
@@ -26,3 +26,7 @@ Here are some examples of style guides being used out there in the wild.
 - [Design Systems: Building for the Future](http://css-tricks.com/design-systems-building-future/)
 
 Keep it simple and **consistent**.
+
+**Update: 2014-06-01**
+
+- A really good example from [Font Shop](http://next.fontshop.com/styleguide/globals)
