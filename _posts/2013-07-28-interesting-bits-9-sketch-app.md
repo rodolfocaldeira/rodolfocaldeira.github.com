@@ -34,3 +34,7 @@ An interesting article that shows how to use the tool to its full extent, [Super
 **Update 2014-02-08**
 
 - [Sketch Symbols plugin](https://github.com/tisho/sketch-plugins/tree/master/Symbols)
+
+**Update 2014-06-27**
+
+- [Sketch Tutorial_01](https://medium.com/@KounterB/b76271a095e3)
