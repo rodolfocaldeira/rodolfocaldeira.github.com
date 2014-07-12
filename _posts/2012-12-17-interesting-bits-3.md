@@ -12,12 +12,16 @@ Just a few more days to go before Christmas, but we still have time for some int
 GitHub was the first one, now font icons are everywhere.
 
 - [Font Awesome](http://fortawesome.github.com/Font-Awesome/) by GitHub
-- [Fontello](http://fontello.com/), icon fonts generator 
+- [Fontello](http://fontello.com/), icon fonts generator
 - [IcoMoon](http://icomoon.io/app/), also a generator
 
 *Update December, 20th 2012*
 
 - [The Big List of Flat Icons & Icon Fonts](http://css-tricks.com/flat-icons-icon-fonts/) by Chris Coyer
+
+*Update July, 11th 2014*
+
+- [We Love Icon Fonts](http://weloveiconfonts.com/), a free & open source icon fonts hosting service, it is Google Fonts but for icons.
 
 ## Tools
 

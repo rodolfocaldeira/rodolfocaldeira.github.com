@@ -37,4 +37,9 @@ An interesting article that shows how to use the tool to its full extent, [Super
 
 **Update 2014-06-27**
 
-- [Sketch Tutorial_01](https://medium.com/@KounterB/b76271a095e3)
+- [SketchCasts](http://www.sketchcasts.net/) a weekly screencast covering Sketch app.
+
+**Update 2014-07-11**
+
+- [Design + Code](http://designcode.io/), Learn iOS design and Xcode. Build a news reader app from
+Sketch to the App Store.
