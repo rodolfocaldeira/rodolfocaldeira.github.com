@@ -36,6 +36,7 @@ Here are some really good resources to get your creative design juices flowing.
 
 - [<img src="http://www.bootstrapzero.com/images/bootstrapzero_ico.png" class="icon" width="24px" height="24px"> Bootstrap zero](http://www.bootstrapzero.com/) the largest free, open-source template collection for Bootstrap.
 - [<img src="http://designmodo.com/favicon.ico" class="icon" width="24px" height="24px"> Startup Framework generator](http://designmodo.com/generator/)
+- [Black Tie - Free Bootstrap Themes](http://www.blacktie.co/)
 
 
 ## Identity/Brand Design
@@ -72,3 +73,4 @@ Here are some really good resources to get your creative design juices flowing.
 ## Other
 
 - [<img src="http://d3kpc4gyzr96f9.cloudfront.net/assets/favicon-c8fed918a26c54f119234a4140f93976.ico?v=3" class="icon" width="24px" height="24px"> Niice](http://niice.co/), getting ideas on demand is hard. Niice is a tool to help you find that spark.
+- [A collection of mobile apps](http://mobilewebappsftw.tumblr.com/)
