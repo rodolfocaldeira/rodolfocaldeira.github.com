@@ -59,3 +59,5 @@ Good luck and don't forget practice makes perfect.
  **Update 2014-04-18**
 
 - [The Insider's Guide to JavaScript Interviewing](http://www.toptal.com/javascript#hiring-guide)
+
+- [16 Great JavaScript Interview Questions](http://www.toptal.com/javascript/interview-questions)
