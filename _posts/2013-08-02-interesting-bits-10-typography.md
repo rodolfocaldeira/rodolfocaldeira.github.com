@@ -32,7 +32,6 @@ To help you out in that laborious task here are some resources that I think will
 **Update 2014-03-10**
 
 - [Font Prep](http://fontprep.com/) a mac os tool that allows you to transform your true type fonts (ttf and otf) into web fonts (woff, eot, svg). Similar to [Squirrel's font generator](http://www.fontsquirrel.com/tools/webfont-generator) but for the desktop.
-=======
 
 **Update 2014-03-26**
 
@@ -46,3 +45,7 @@ To help you out in that laborious task here are some resources that I think will
 **Update 2014-04-20**
 
 - [Typekit Practice](http://practice.typekit.com/)
+
+**Update 2014-10-04**
+
+- [I Font You](http://ifontyou.com/)
