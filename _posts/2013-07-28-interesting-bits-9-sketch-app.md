@@ -43,3 +43,7 @@ An interesting article that shows how to use the tool to its full extent, [Super
 
 - [Design + Code](http://designcode.io/), Learn iOS design and Xcode. Build a news reader app from
 Sketch to the App Store.
+
+_Update 2015-02-21_
+
+[6 Time-saving Sketch plugins](http://blog.invisionapp.com/6-time-saving-sketch-plugins-to-install-right-now-for-free/)
