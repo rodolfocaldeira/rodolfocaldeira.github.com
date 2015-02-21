@@ -16,3 +16,7 @@ Please find below some websites where you can get high quality photographs relea
 _Update: 2014-12-22_
 
 - [Pexels](http://www.pexels.com/) the test free photos in one place.
+
+_Update: 2015-02-21_
+
+- [Stock Snap](https://stocksnap.io/) a lot of really good free stock photos, with even more being added every single week.
