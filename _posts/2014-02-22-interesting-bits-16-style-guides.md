@@ -30,3 +30,7 @@ Keep it simple and **consistent**.
 **Update: 2014-06-01**
 
 - A really good example from [Font Shop](http://next.fontshop.com/styleguide/globals)
+
+**Update: 2015-04-23**
+
+- [CodePen style guide](http://codepen.io/guide/)
