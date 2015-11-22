@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Interesting Bits 18 - Best Flexbox Resources"
+title: "Interesting Bits 19 - Best Flexbox Resources"
 excerpt: The best flexbox resources.
 published: true
 ---
+
 
 You no longer have any excuses for not using Flexbox for your page and apps layouts.
 
